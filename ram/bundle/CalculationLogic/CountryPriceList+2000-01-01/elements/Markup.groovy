@@ -1,0 +1,1 @@
+api.vLookup("CountryMarkup", "MarkupAdjustment", out.CountryCode)

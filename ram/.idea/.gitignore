@@ -1,0 +1,33 @@
+# Default ignored files
+
+# =====================
+# IntelliJ .idea/
+# https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems
+
+# User-specific stuff
+workspace.xml
+tasks.xml
+usage.statistics.xml
+dictionaries
+shelf
+
+# Gradle
+gradle.xml
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.
+# Comment if you're not using auto-import.
+artifacts
+compiler.xml
+jarRepositories.xml
+modules.xml
+modules
+*.iml
+*.ipr
+
+shelf/
+
+contentModel.xml
+
+/**/
